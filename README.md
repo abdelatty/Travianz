@@ -1,2 +1,1 @@
-Abo-tarek
-=========
+I want to help translate the game Travian to Arabic Language
